@@ -1,2 +1,2 @@
 # ARTS
-Weekly ARTS (Algorithm,Review,Tips,Share)
+Weekly ARTS (Algorithm,Review,Tip,Share)
